@@ -1,3 +1,8 @@
 def square_array(array)
-  # your code here
+ new_array = []
+ while (array) == Integer
+ do 
+  array << Integer ** 2
+ end
+ return new_array
 end
