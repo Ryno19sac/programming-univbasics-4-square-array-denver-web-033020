@@ -2,9 +2,9 @@ def square_array(array)
  new_array = []
  counter = 0 
   while array[counter] do
-   array[counter] << array ** 2
+   puts array[counter] << array ** 2
     counter += 1
-  puts new_array
+  #puts new_array
 end
     
  
